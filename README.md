@@ -9,7 +9,33 @@
 
 # GitHub Pages
 
-_Create a site or blog from your GitHub repositories with GitHub Pages._
+_Create a site or blog from your GitHub repositories with GitHub Pages._Crie uma loja online de afiliados Amazon totalmente focada na marca Playstation e seus produtos. A loja deve incluir:
+1. Designa e Layout: Um layout moderno e intuitivo, com cores predominantes inspiradas na identidade visual da Playstation (azul, preto e branco). Inclua banners promocionais destacando os produtos mais vendidos e lançamentos recentes.
+
+2. Categorias: Organize os produtos em categorias como:
+- consoles (PS5, PS4, edições especiais)
+- acessõrios (controles, headsets, carregadores, cämeras)
+- jogos (lançamentos, clãssicos, exclusivos)
+- assinaturas (PS Plus, PS Now, cartões prẽ-pagos)
+- produtos licenciados (roupas, colecionãveis, decorações)
+
+3. Funcionalidades:
+- Links afiliados em todos os produtos, otimizados para gerar comissões;
+- Um sistema de busca eficiente para facilitar a navegação
+- seções de destaque como "mais vendidos", "promoções do mês" e "prẽ-vendas"
+- avalia"oes e descrições detalahdas dos produtos, geradas automaticamente com base nas informações da Amazon;
+- Opção de adicionar produtos ao carrinho diretamente com redireciamento para o site da Amazon;
+
+4. SEO e Conteũdo:
+- Escreva descrições otimizadas para SEO, usando palavras-chave como "Playstation Ofertasd", "comprar PS5 barato", melhores acessõrios para Playstation, etc.
+
+Crie um blog integrado com artigos sobre dicas de jdogos, anãlise de lançamento, tutoriais e notĩcioas do universo Playstation.
+
+5. Chamadas para ação:
+- Inclui CTAs claros como "compre agora", "confira na Amazon", "Obtenha o seu PS5 para um desconto"
+
+6. Responsabilidade
+- A loja deve ser totalmente responsiva, com õtima experiência de navegação de dispositivos mõveis
 
 </header>
 
@@ -60,6 +86,7 @@ In this course, you will:
 3. After your new repository is created, wait about 20 seconds, then refresh the page. Follow the step-by-step instructions in the new repository's README.
 
 <footer>
+
 
 <!--
   <<< Author notes: Footer >>>
